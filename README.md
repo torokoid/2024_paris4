@@ -162,9 +162,21 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～フランスの大統領元～～～<br><br></span></h3>
 
+<a href="20240725_043.JPG" data-lightbox="abc"><img src="20240725_043.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_044.JPG" data-lightbox="abc"><img src="20240725_044.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_045.JPG" data-lightbox="abc"><img src="20240725_045.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_046.JPG" data-lightbox="abc"><img src="20240725_046.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_047.JPG" data-lightbox="abc"><img src="20240725_047.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_048.JPG" data-lightbox="abc"><img src="20240725_048.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_049.JPG" data-lightbox="abc"><img src="20240725_049.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_050.JPG" data-lightbox="abc"><img src="20240725_050.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_051.JPG" data-lightbox="abc"><img src="20240725_051.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_052.JPG" data-lightbox="abc"><img src="20240725_052.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_053.JPG" data-lightbox="abc"><img src="20240725_053.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_054.JPG" data-lightbox="abc"><img src="20240725_054.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_055.JPG" data-lightbox="abc"><img src="20240725_055.JPG" alt="サンプル画像" width="900" /></a>
 
-
-<h2><span class="yellow"><marquee behavior="left">!!!サンミッシェル大聖堂の中に入った!!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!!買い物は続く。ワイン博物館に行ってから、スタジアムに行くことになった!!!</marquee></span></h2>
 
 
 
