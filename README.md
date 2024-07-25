@@ -206,74 +206,21 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h2><span class="yellow"><marquee behavior="left">!!!まさかの快勝!!!</marquee></span></h2>
 
-
-
-<h3><span class="yellow"><br>～～～予約なしでしたが、二階の席に入れてくれました～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～ベルギービールのヒューガルデンを頼んだら、瓶がでてきてがっかり～～～<br><br></span></h3>
+<a href="20240725_078.JPG" data-lightbox="abc"><img src="20240725_078.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_079.JPG" data-lightbox="abc"><img src="20240725_079.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_080.JPG" data-lightbox="abc"><img src="20240725_080.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_081.JPG" data-lightbox="abc"><img src="20240725_081.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
-<h3><span class="yellow"><br>～～～フォワグラクリーム。普段食べない料理。茶碗蒸しとカツ丼の玉子とじの部分の味<br>
-次女が注文したサーモンは普通に美味しかった～～～<br><br></span></h3>
+<a href="20240725_082.JPG" data-lightbox="abc"><img src="20240725_082.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_083.JPG" data-lightbox="abc"><img src="20240725_083.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="yellow"><br>～～～帰りのバス、子供のハチマキに南相馬の文字<br>
+優勝はTATAKI～～～<br><br></span></h3>
 
-
-<h3><span class="yellow"><br>～～～ボルドーの赤ワインを注文～～～<br><br></span></h3>
-
-
-
-<h2><span class="yellow"><marquee behavior="left">!!! 外の広場が騒がしくなってきた。ブラジルでは、これを道路、歩道でやってました。コンクリートの上でやるので体をはった芸です !!!</marquee></span></h2>
-
-
-
-<h3><span class="yellow"><br>～～～デザートにティラミスとチーズケーキ。英語が通じてないので、コーヒーの種類を説明するのに何回も確認～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～店内はおしゃれ。アルコールを飲んでいる人少ない。お食事をする場所でした～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～21時になっても明るいので、川沿いへ～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～噴水に馬があるのは珍しいかな～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～バスから見えた観覧車～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～川には大きな客船、遊覧船、ジェットスキー～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～だんだん暗くなってきたが、日中のように水蒸気がまかれた～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～日本の雰囲気を出した店～～～<br><br></span></h3>
-
-
-
-
-
-
-<h2><span class="yellow"><marquee behavior="left">!!!この後、すぐ寝てしまいました。3時頃起床。翌日に日本男子サッカーがあるのに日本人に会わず!!!</marquee></span></h2>
-
-
-
-<h3><span class="yellow"><br>スター選手ゼロ、オーバーエイジなし。<br>
-YOUTUBEの予想は2-1勝利。<br>
-南米パラグアイは試合巧者。パラグアイは先制されないように気をつける。<br>
-0-0でもいいという試合。日本はカウンターくらってヒヤヒヤ。<br>
-暑いので、集中力のかけた見せ場のない試合を予想。<br>
-0-0でいいと思っています<br><br></span></h3>
+<a href="20240725_084.JPG" data-lightbox="abc"><img src="20240725_084.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_085.JPG" data-lightbox="abc"><img src="20240725_085.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
