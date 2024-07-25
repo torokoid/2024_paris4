@@ -130,7 +130,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240725_017.JPG" data-lightbox="abc"><img src="20240725_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240725_018.JPG" data-lightbox="abc"><img src="20240725_018.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow"><marquee behavior="left">!!! ボルドー散歩。パラグアイ人に会いました。日本人、パラグアイ人、我々以外いません。<br>試合当日、次女のお買い物に同行 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! ボルドー散歩。パラグアイ人に会いました。日本人、パラグアイ人、我々以外いません。試合当日、次女のお買い物に同行 !!!</marquee></span></h2>
 
 <a href="20240725_019.JPG" data-lightbox="abc"><img src="20240725_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240725_020.JPG" data-lightbox="abc"><img src="20240725_020.JPG" alt="サンプル画像" width="900" /></a>
