@@ -107,8 +107,8 @@ background-color: rgba(0, 225, 0, 0.6);
 -->
 <!--
 <h3><span class="yellow"><br>～～～2024年7月25日着の画像です！～～～<br><br></span></h3>
---><br><br><br><br><br><br><br>
-<h3><span class="yellow"><br>～～～今回の情報入手は、LINEホットラインでの以下のトンチンカンな会話からスタート～～～<br><br></span></h3>
+--><br><br><br><br><br><br><br><br><br><br>
+<h3><span class="yellow"><br>～～～背景は男子サッカー戦帰りのバスで同乗した女の子の鉢巻き！今回の情報入手は、LINEホットラインでの以下のトンチンカンな会話からスタート～～～<br><br></span></h3>
 
 <a href="20240725_000.png" data-lightbox="abc"><img src="20240725_000.png" alt="サンプル画像" width="900" /></a>
 <a href="20240725_001.JPG" data-lightbox="abc"><img src="20240725_001.JPG" alt="サンプル画像" width="900" /></a>
