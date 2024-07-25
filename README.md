@@ -219,7 +219,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240725_083.JPG" data-lightbox="abc"><img src="20240725_083.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～帰りのバス、子供のハチマキに南相馬の文字<br>
-優勝はTATAKI～～～<br><br></span></h3>
+夕食はTATAKI～～～<br><br></span></h3>
 
 <a href="20240725_084.JPG" data-lightbox="abc"><img src="20240725_084.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240725_085.JPG" data-lightbox="abc"><img src="20240725_085.JPG" alt="サンプル画像" width="900" /></a>
