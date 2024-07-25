@@ -178,9 +178,20 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h2><span class="yellow"><marquee behavior="left">!!!買い物は続く。ワイン博物館に行ってから、スタジアムに行くことになった!!!</marquee></span></h2>
 
+<a href="20240725_056.JPG" data-lightbox="abc"><img src="20240725_056.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_057.JPG" data-lightbox="abc"><img src="20240725_057.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_058.JPG" data-lightbox="abc"><img src="20240725_058.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_059.JPG" data-lightbox="abc"><img src="20240725_059.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_060.JPG" data-lightbox="abc"><img src="20240725_060.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_061.JPG" data-lightbox="abc"><img src="20240725_061.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_062.JPG" data-lightbox="abc"><img src="20240725_062.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_063.JPG" data-lightbox="abc"><img src="20240725_063.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_064.JPG" data-lightbox="abc"><img src="20240725_064.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_065.JPG" data-lightbox="abc"><img src="20240725_065.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_066.JPG" data-lightbox="abc"><img src="20240725_066.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_067.JPG" data-lightbox="abc"><img src="20240725_067.JPG" alt="サンプル画像" width="900" /></a>
 
-
-<h3><span class="yellow"><br>～～～尖塔は工事中で入れず～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～スタジアム行きバス停には、地元ボランティアが案内してくれました～～～<br><br></span></h3>
 
 
 
