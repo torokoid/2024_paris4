@@ -193,9 +193,18 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～スタジアム行きバス停には、地元ボランティアが案内してくれました～～～<br><br></span></h3>
 
+<a href="20240725_068.JPG" data-lightbox="abc"><img src="20240725_068.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_069.JPG" data-lightbox="abc"><img src="20240725_069.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_070.JPG" data-lightbox="abc"><img src="20240725_070.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_071.JPG" data-lightbox="abc"><img src="20240725_071.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_072.JPG" data-lightbox="abc"><img src="20240725_072.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_073.JPG" data-lightbox="abc"><img src="20240725_073.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_074.JPG" data-lightbox="abc"><img src="20240725_074.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_075.JPG" data-lightbox="abc"><img src="20240725_075.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_076.JPG" data-lightbox="abc"><img src="20240725_076.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_077.JPG" data-lightbox="abc"><img src="20240725_077.JPG" alt="サンプル画像" width="900" /></a>
 
-
-<h2><span class="yellow"><marquee behavior="left">!!!次女のオススメレストランを目指して歩きました!!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!!まさかの快勝!!!</marquee></span></h2>
 
 
 
