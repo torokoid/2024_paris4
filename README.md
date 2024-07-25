@@ -132,9 +132,20 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h2><span class="yellow"><marquee behavior="left">!!! ボルドー散歩。パラグアイ人に会いました。日本人、パラグアイ人、我々以外いません。<br>試合当日、次女のお買い物に同行 !!!</marquee></span></h2>
 
+<a href="20240725_019.JPG" data-lightbox="abc"><img src="20240725_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_020.JPG" data-lightbox="abc"><img src="20240725_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_021.JPG" data-lightbox="abc"><img src="20240725_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_022.JPG" data-lightbox="abc"><img src="20240725_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_023.JPG" data-lightbox="abc"><img src="20240725_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_024.JPG" data-lightbox="abc"><img src="20240725_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_025.JPG" data-lightbox="abc"><img src="20240725_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_026.JPG" data-lightbox="abc"><img src="20240725_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_027.JPG" data-lightbox="abc"><img src="20240725_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_028.JPG" data-lightbox="abc"><img src="20240725_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_029.JPG" data-lightbox="abc"><img src="20240725_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_030.JPG" data-lightbox="abc"><img src="20240725_030.JPG" alt="サンプル画像" width="900" /></a>
 
-
-<h2><span class="yellow"><marquee behavior="left">!!! バスで市内へ。Booking.comで予約したアパートに到着 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! サンタンドレ教会 !!!</marquee></span></h2>
 
 
 
