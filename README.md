@@ -94,7 +94,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <!--<div style="background-color:rgb(255,255,255,0.5);">-->
 <p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>><a href="https://torokoid.github.io/2024_paris2/">22日〜23日</a>><a href="https://torokoid.github.io/2024_paris3/">22日〜23日</a>>24日〜</p><!--</div>-->
 
-<p align="left"> <span class="yellow">&nbsp;Bruce 23日〜</span></p>
+<p align="left"> <span class="yellow">&nbsp;Bruce 24日〜</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br>
 <p align="left"> <img src="paris4.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
@@ -105,9 +105,9 @@ background-color: rgba(0, 225, 0, 0.6);
 <!--
 <div id="wrap">
 -->
-
+<!--
 <h3><span class="yellow"><br>～～～2024年7月25日着の画像です！～～～<br><br></span></h3>
-
+--><br><br><br><br><br><br><br>
 <h3><span class="yellow"><br>～～～今回の情報入手は、LINEホットラインでの以下のトンチンカンな会話からスタート～～～<br><br></span></h3>
 
 <a href="20240725_000.png" data-lightbox="abc"><img src="20240725_000.png" alt="サンプル画像" width="900" /></a>
