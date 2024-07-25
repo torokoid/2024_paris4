@@ -147,10 +147,20 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h2><span class="yellow"><marquee behavior="left">!!! サンタンドレ教会 !!!</marquee></span></h2>
 
+<a href="20240725_031.JPG" data-lightbox="abc"><img src="20240725_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_032.JPG" data-lightbox="abc"><img src="20240725_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_033.JPG" data-lightbox="abc"><img src="20240725_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_034.JPG" data-lightbox="abc"><img src="20240725_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_035.JPG" data-lightbox="abc"><img src="20240725_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_036.JPG" data-lightbox="abc"><img src="20240725_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_037.JPG" data-lightbox="abc"><img src="20240725_037.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_038.JPG" data-lightbox="abc"><img src="20240725_038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_039.JPG" data-lightbox="abc"><img src="20240725_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_040.JPG" data-lightbox="abc"><img src="20240725_040.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_041.JPG" data-lightbox="abc"><img src="20240725_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_042.JPG" data-lightbox="abc"><img src="20240725_042.JPG" alt="サンプル画像" width="900" /></a>
 
-
-
-<h3><span class="yellow"><br>～～～予め連絡された暗証番号でドアを開けるだけです。市内観光へ。～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～フランスの大統領元～～～<br><br></span></h3>
 
 
 
