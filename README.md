@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/2024_paris3/20240724_015.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/2024_paris3/20240725_083.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -211,7 +211,9 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240725_080.JPG" data-lightbox="abc"><img src="20240725_080.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240725_081.JPG" data-lightbox="abc"><img src="20240725_081.JPG" alt="サンプル画像" width="900" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ecrB134ilKU?si=LHeKXISCcdGm3aXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wITr7tRsaDs?si=JsAVeQkP3LGri01T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <a href="20240725_082.JPG" data-lightbox="abc"><img src="20240725_082.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240725_083.JPG" data-lightbox="abc"><img src="20240725_083.JPG" alt="サンプル画像" width="900" /></a>
